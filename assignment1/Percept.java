@@ -1,4 +1,4 @@
-public class percept {
+public class Percept {
     //variables
     private int location;
     private boolean isDirty;
